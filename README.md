@@ -10,7 +10,7 @@
     ```
     или
     ```bash
-    poetry shell
+    poetry install
     ```
 2. Убедитесь, что у вас установлен и запущен Redis на `localhost:6379`.
 
